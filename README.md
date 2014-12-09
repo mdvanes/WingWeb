@@ -6,6 +6,7 @@ Web version of Wing, the wing designer app. Web, in contrast to the earlier Turb
 * Host on Heroku (e.g. rediscloud) or maybe on a private server
 * Uses Express, Angular, Node and Redis (i.e. a MEANR stack)
 * Uses HTML5 canvas
+* Build process with Grunt should include Sass/Compass, jshint, lintspaces, uglify, jasmine testing.
 
 ## Redis
 
