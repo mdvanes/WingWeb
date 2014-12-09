@@ -1,6 +1,6 @@
 WingWeb
 =======
 
-* Uses Angular and Redis(?)
+* deploy on Heroku
+* Uses Angular and Redis(e.g. rediscloud)
 * Uses HTML5 canvas
-* deploy on Heroku?
