@@ -10,4 +10,6 @@ Web version of Wing, the wing designer app. Web, in contrast to the earlier Turb
 
 ## Redis
 
-You must verify your account by adding a credit card before you can add any add-on to your app other than heroku-postgresql:dev and pgbackups:plus.
+On Heroku: You must verify your account by adding a credit card before you can add any add-on to your app other than heroku-postgresql:dev and pgbackups:plus.
+
+For Node: https://github.com/mranney/node_redis
